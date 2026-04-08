@@ -1,6 +1,5 @@
 # Amani Yadav - Portfolio Website
-A personal portfolio website built with React featuring dark/light mode, 
-pixel art aesthetic, and animated backgrounds.
+My portfolio website
 
 ## Tech Stack
 - React
